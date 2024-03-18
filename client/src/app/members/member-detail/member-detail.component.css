@@ -4,10 +4,6 @@
     height: 85%;
 }
 
-.card {
-    border-color: whitesmoke;
-}
-
 .card-body {
     padding: 0 25px;
 }
@@ -16,4 +12,8 @@
     padding: 10px 15px;
     background-color: whitesmoke;
     border-top: none;
+}
+
+.card {
+    border-color: whitesmoke;
 }
